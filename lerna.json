@@ -2,6 +2,7 @@
   "packages": [
     "basic-wallet",
     "local-wallet",
+    "dapp",
     "packages/*"
   ],
   "npmClient": "yarn",
